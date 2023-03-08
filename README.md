@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning about data through a Microsoft Challange.
+🌱 I’m currently learning about data through a Microsoft Challenge.
 <!--
 **ochaita100/ochaita100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
